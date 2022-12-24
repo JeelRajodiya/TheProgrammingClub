@@ -4,10 +4,6 @@ name: Prettier
 on:
     push:
     pull_request:
-        branches:
-            - "*" # matches every branch that doesn't contain a '/'
-            - "*/*" # matches every branch containing a single '/'
-            - "**"
 
 jobs:
     prettier:
