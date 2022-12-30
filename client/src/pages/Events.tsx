@@ -1,9 +1,7 @@
-import React from 'react'; 
+import React from "react"
 
 const Events: React.FC = () => {
-    return (
-        <div>Events Page</div>
-    );
+	return <div>Events Page</div>
 }
 
-export default Events; 
+export default Events
