@@ -139,3 +139,8 @@
 		@apply text-[#40E9F1] text-sm text-center py-1;
 	}
 }
+body {
+	background-color: black;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
